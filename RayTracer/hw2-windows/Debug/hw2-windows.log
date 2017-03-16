@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\shameem\documents\computer graphics\raytracer\raytracer\hw2-windows\main.cpp(151): warning C4838: conversion from 'int' to 'unsigned char' requires a narrowing conversion
+  hw2-windows.vcxproj -> C:\Users\shameem\Documents\Computer Graphics\RayTracer\RayTracer\Debug\hw2-windows.exe
+  hw2-windows.vcxproj -> C:\Users\shameem\Documents\Computer Graphics\RayTracer\RayTracer\Debug\hw2-windows.pdb (Full PDB)
